@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;phonecomcli&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
